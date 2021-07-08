@@ -1,0 +1,17 @@
+{
+  "name": "pgntn",
+  "version": "0.0.1",
+  "description": "Pagination.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3tu/pgntn.git"
+  },
+  "keywords": ["pagination"],
+  "author": "d3tu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3tu/pgntn/issues"
+  },
+  "homepage": "https://github.com/d3tu/pgntn#readme"
+}
